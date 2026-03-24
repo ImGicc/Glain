@@ -4,7 +4,7 @@ ImGicc Global Language Index
 
 Files
 =====
-There's only 1 file named `tokens.js` for syllables of all languages and symbols.
+There's only 1 file named `tokens.mjs` for syllables of all languages and symbols.
 This file is **append-only** and the indexes of tokens always stay the same
 for added tokens.
 
