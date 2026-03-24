@@ -17,6 +17,11 @@ More Tokens
 Please go [Issues](https://github.com/imgicc/glain/issues) tab to submit text files 
 to have the tokens added.
 
+Notes
+=====
+Note that the indexes of tokens start from zero, but actually start from 256
+to reserve the index 0..255 for bytes of unknown tokens.
+
 Licence
 =======
 GNU GPL v3
