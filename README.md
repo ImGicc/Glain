@@ -1,6 +1,6 @@
 Glain
 =====
-ImGicc Global Language Index
+ImGicc Global Language Index, common data for multiple languages.
 
 Files
 =====
